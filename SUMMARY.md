@@ -1,4 +1,17 @@
 # Table of contents
 
 - [Welcome](WELCOME.md)
-- [Test](TEST.md)
+- [Cost](COST.md)
+- [Architecture Overview](ARCHITECTURE.md)
+- [Solution Components](COMPONENTS.md)
+- [Security](SECURITY.md)
+- [Design Considerations](DESIGN.md)
+- [AWS CloudFormation Templates](CLOUDFORMATION.md)
+- [Automated Deployment](DEPLOYMENT.md)
+- [Using the Solution](USAGE.md)
+- [Additional Resources](ADDITIONAL_RESOURCES.md)
+- [Source Code](SOURCE.md)
+- [Revisions](REVISIONS.md)
+- [Contributors](CONTRIBUTORS.md)
+- [Notices](NOTICES.md)
+- [AWS Glossary](GLOSSARY.md)
